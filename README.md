@@ -8,7 +8,7 @@ Senior Backend Engineer & Technical Lead with 9+ years of experience architectin
 * **Languages & Frameworks:** Java, Go, SQL, Spring Boot.
 * **Databases:** PostgreSQL, Oracle, Redis, ClickHouse, Bigtable.
 * **Infrastructure & Cloud:** Kubernetes, Drone.io, GCP (Google Cloud Platform).
-* **Distributed Systems:** Kafka, Redis Cluster, ZooKeeper, ELK.
+* **Distributed Systems:** Kafka, ZooKeeper, ELK.
 
 ## 💼 Professional Experience
 
