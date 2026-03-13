@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm kxw07 from Taiwan and currently looking for opportunities of Tier 1 software engineer
+I'm kxw07 from Taiwan, currently seeking software engineering opportunities at top-tier software companies.
 
 ## 👨‍💻 Professional Summary
 Senior Backend Engineer & Technical Lead with 9+ years of experience architecting scalable, high-concurrency systems. Proven track record of leading cross-functional teams to deliver critical infrastructure and optimize system latency, with deep specialization in the Java ecosystem and distributed system design.
