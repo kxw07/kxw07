@@ -38,4 +38,4 @@ Senior Backend Engineer & Technical Lead with 9+ years of experience architectin
 **Programmer** (Jul 2015 - Jan 2017)
 
 ## 🎓 Education
-**Bachelor of Electrical Engineering** | National Taiwan University of Science and Technology (Sep 2010 - Jun 2014).
+**Bachelor of Electronic Engineering** | National Taiwan University of Science and Technology (Sep 2010 - Jun 2014).
